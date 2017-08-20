@@ -2,7 +2,7 @@
 Predicting house prices
 # File Description
 - `.gl` or `.csv` file is data file.
-  - `home_data.gl` (`home_data.csv`) consists of 21,613 customers with 21 features.
+  - `home_data.gl.zip` (`home_data.csv`) consists of 21,613 customers with 21 features.
 - `.ipynb` file is the solution of Week 2 program assignment
   - `Predicting house prices.ipynb`
   - `Week 2 exe.ipynb`
