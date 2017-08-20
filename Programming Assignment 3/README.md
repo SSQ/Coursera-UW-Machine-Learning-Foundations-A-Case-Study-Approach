@@ -2,7 +2,7 @@
 Analyzing product sentiment
 # File Description
 - `.rar` files is data file.
-  - `[amazon_baby.rar](https://github.com/SSQ/Coursera-UW-Machine-Learning-Classification/blob/master/Programming%20Assignment%201/amazon_baby.rar)` (unzip `amazon_baby.csv`) consists of 183,531 customers with `name`, `review`, `rating`.
+  - [`amazon_baby.rar`](https://github.com/SSQ/Coursera-UW-Machine-Learning-Classification/blob/master/Programming%20Assignment%201/amazon_baby.rar) (unzip `amazon_baby.csv`) consists of 183,531 customers with `name`, `review`, `rating`.
 - `.ipynb` file is the solution of Week 3 program assignment
   - `Analyzing product sentiment.ipynb`
   - `Week 3 exe.ipynb`
